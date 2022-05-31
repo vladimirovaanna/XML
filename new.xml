@@ -1,0 +1,8 @@
+<?xml version=”1.0” encoding=”UTF-8” standalone=”yes”?>
+<new>
+  <firstName>Anna</firstName>
+  <lastName>Vladimirova</lastName>
+  <age>27</age>
+  <countPets>0</countPets>
+  <futureSalary>1500$</futureSalary>
+</new>
