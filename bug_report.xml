@@ -1,0 +1,17 @@
+<?xml version=”1.0” encoding=”UTF-8” standalone=”yes”?>
+<newBugReport>
+  <type>bug-report</type>
+  <id>1</id>
+  <summary>The 'Login' field is disabled after clicking</summary>
+  <status>New</status>
+  <severity>Major</severity>
+  <priority>P1</priority>
+  <assignedTo>developer@example.com</assignedTo>
+  <reportedBy>tester@example.com</reportedBy>
+  <CC>manager@example.com</CC> 
+  <step1>Go to page: https://...</step1>
+  <step2>Click on the 'Login' field</step2>
+  <actualResult>The 'Login' field is disabled</actualResult>
+  <screenshot>Screenshot_1</screenshot>
+  <ExpectedResult>The 'Login' field is available for filling</ExpectedResult>
+</newBugReport>
