@@ -13,5 +13,5 @@
   <step2>Click on the 'Login' field</step2>
   <actualResult>The 'Login' field is disabled</actualResult>
   <screenshot>Screenshot_1</screenshot>
-  <ExpectedResult>The 'Login' field is available for filling</ExpectedResult>
+  <expectedResult>The 'Login' field is available for filling</expectedResult>
 </newBugReport>
